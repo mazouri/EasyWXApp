@@ -14,6 +14,11 @@
 
 ## Demos
 
+## open sources
+
+[OpenSourceCollection](https://github.com/justjavac/awesome-wechat-weapp)
+[WxAppBBS](https://wxappfans.com/)
+
 ## Q&A
 
 [OfficialWebsite Q&A](https://mp.weixin.qq.com/debug/wxadoc/dev/qa.html?t=201715)
